@@ -25,6 +25,7 @@
             <groupId>jboss</groupId>
             <artifactId>jboss-annotations-ejb3</artifactId>
             <version>4.2.3.GA</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
     
