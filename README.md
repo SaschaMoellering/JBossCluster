@@ -1,2 +1,2 @@
-WildflyCluster
+JBossCluster
 ==============
