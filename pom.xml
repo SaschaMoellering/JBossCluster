@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.sm.cluster</groupId>
-    <artifactId>JBossClsuter</artifactId>
+    <artifactId>JBossCluster</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
