@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>clusterTest</context-root>
+</jboss-web>
